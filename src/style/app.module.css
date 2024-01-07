@@ -1,0 +1,11 @@
+.red {
+    color: red;
+}
+
+.footer {
+    background-color: antiquewhite;
+    user-select: none;
+    text-align: center;
+    color: purple;
+    font-size: 3rem;
+}
